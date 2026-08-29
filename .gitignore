@@ -1,0 +1,20 @@
+.system
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Finder 图标文件
+Icon?
+
+# 缩略图与资源分支
+._*
+
+# 可能出现在外部磁盘中的目录
+.Spotlight-V100
+.Trashes
+.fseventsd
+.TemporaryItems
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent

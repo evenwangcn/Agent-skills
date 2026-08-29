@@ -1,0 +1,4 @@
+interface:
+  display_name: "TikTok视频标题生成器"
+  short_description: "Write 10 U.S. TikTok Shop rug post titles"
+  default_prompt: "Use $tiktok-rug-post-title-writer to turn this rug sales script into 10 TikTok post titles."

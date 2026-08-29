@@ -1,0 +1,4 @@
+interface:
+  display_name: "TikTok视频字幕生成器"
+  short_description: "根据话术生成10条简短自然的美区TikTok地毯视频字幕文案"
+  default_prompt: "Use $tiktok-rug-caption-writer to turn this rug sales script into 10 short on-screen captions."
