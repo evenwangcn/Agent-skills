@@ -5,7 +5,7 @@ description: Turn a user-provided rug sales line or script into 10 short, natura
 
 # TikTok Rug Caption Writer
 
-Convert only the text in the user's current request into 10 alternative captions for a U.S.-market TikTok Shop rug video.
+Convert only the text in the user's current request into 20 alternative captions for a U.S.-market TikTok Shop rug video.
 
 ## Writing requirements
 
@@ -20,7 +20,7 @@ Convert only the text in the user's current request into 10 alternative captions
 
 ## Output contract
 
-- Return exactly 10 caption alternatives.
+- Return exactly 20 caption alternatives.
 - Put one caption on each line.
 - Output captions only: no heading, introduction, explanation, numbering, bullets, quotation marks, or closing note.
 - Do not repeat the same idea with only trivial word changes.
