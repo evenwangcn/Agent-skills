@@ -1,0 +1,4 @@
+interface:
+  display_name: "TikTok美区地毯商品标题"
+  short_description: "Write clear American-English product listing titles for rugs"
+  default_prompt: "Use $tiktok-rug-product-title-writer to create product listing titles from my rug details."
