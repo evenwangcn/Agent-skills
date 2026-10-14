@@ -1,0 +1,4 @@
+interface:
+  display_name: "TikTok Shop商品标题生成器"
+  short_description: "根据地毯特性与美国区趋势，生成20条自然且适合上架的英文商品标题"
+  default_prompt: "请使用 $tiktok-shop-rug-title-generator，根据以下地毯信息参考美国区近期趋势，生成20条英文商品标题。材质/触感：；风格/图案：；使用场景：；尺寸/形状：；卖点：。"
